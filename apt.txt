@@ -1,8 +1,2 @@
 maven
-maven8
-openjdk-7-jdk
-vim
-add7
-add8
-add9
-add10
+openjdk-8-jdk
